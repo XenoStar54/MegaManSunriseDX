@@ -1,0 +1,87 @@
+This mod seeks to improve certain unpolished elements of the original Mega Man Sunrise and generally smooth over the game without fundamentally changing anything about the identity of the game.
+This mostly comes in the form of level design tweaks and edits that make the game more approachable and fair.
+Adds a bit of extra content. Some side rooms have been added, some challenges for collectibles changed, and Sunrise Tokens have been added in secret areas to contribute towards a true ending.
+Mod by XenoStar54, original game by DJCoco.
+
+**Currently Known Issues**
+
+- Game has a bad habit of softlocking if left alone too long, but this is a quality of the original that would be nearly impossible for me to fix unless I knew the exact source.
+
+**Changes**
+
+*Title Screen*
+
+- Game now starts with the grid off by default.
+
+*Stage Select / Other Menus*
+
+- Game saves progress between Wily stages. The player no longer has to complete them all in one go.
+
+*Enemy Changes*
+
+- Invincibility frames have been entirely removed from enemies.
+- Mets now have more of a delay to firing, allowing MM to shoot them preemptively as is possible in all official Mega Man games.
+- Armaroid shots are now destructible, as they were in MMV.
+- Popo Helis now behave as they did in MM9, firing a single burst of flame and then flying directly upwards off of the screen. HP reduced from 3 to 1 as well.
+- Sakrets' HP has been lowered from 5 to 3, as in MM9.
+- Lowered the speed of Screw Bomber projectiles to a more manageable speed.
+
+*Boss Changes*
+
+- All bosses' contact damage was slightly reduced.
+- Weakness order now broken into two chains that are self-contained between the two parts of the game: Vine > Circuit > Valve > Scorch and Kunai > Sound > Haze > Mirage. Secondary weaknesses shuffled slightly but mostly kept the same.
+- Boss contact damage universally lowered slightly.
+- Vine Man now moves marginally slower on the ground (1.25 -> 1).
+- Valve Man now moves marginally slower on the ground (1.25 -> 1).
+
+*Weapon Changes*
+
+- Universally cut lag on all weapon firing. Only certain weapons now have cooldown timers (Vine Whip and Sound Dash).
+- Universally changed all non-immune weapons to deal 1 damage to bosses, 2 if a semi-weakness, and 3 if a weakness.
+- Mega Buster now does 1 damage instead of 0.5.
+- Valve Missile moves slightly faster and costs less weapon energy (2 -> 1).
+- Circuit Breaker made slighly faster.
+- Kunai Blade made slightly faster and slightly more powerful. 5 should be able to be onscreen at once rather than 3. Ammo consumption upped very slightly (0.1 -> 0.25).
+- Mirage Bomb ammo cost lowered marginally (2.5 -> 2).
+- Haze Shield ammo cost lowered marginally (3.5 -> 3).
+- Trance Wrecker slightly nerfed by increasing its energy cost (1 -> 1.5).
+
+*Vine Man Stage*
+
+- First E-Tank room completely redesigned to be remotely interesting.
+
+*Scorch Man Stage*
+
+- Some rooms rearranged a bit. Pointless unbreakable barrier room redone to make more sense.
+
+*Circuit Man Stage*
+
+- Ice added to one certain platform in the stage that lacked it for some strange reason.
+- Weapon energy removed from the sliding E-Tank pickup area, as this immediately softlocks you if you try to fill a weapon up.
+
+*Kunai Man Stage*
+
+- Added checkpoint where one was originally absent right before the boss room.
+
+*Haze Man Stage*
+
+- Altered several segments to be less player-hostile.
+
+*Wily Stage 1*
+
+- Fixed a graphical issue with a couple of tiles in the room with the Suzies where certain solid-looking tiles have no collision. 
+- Removed several cheap spots from the stage.
+- Urchin Attacker's vulnerable spot is now easier to hit.
+
+*Wily Stage 3*
+
+- Added a sunrise near the end of the stage for thematic effect.
+
+*Wily Stage 4*
+
+- Made the first final boss cutscene skippable.
+- TBD MAKE SECOND ONE SKIPPABLE
+
+**Content Additions**
+
+- Sunrise Tokens added in secret areas in each of the eight robot master stages.
