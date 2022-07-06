@@ -1,0 +1,4 @@
+# Mega-Man-Sunrise-DX
+A remastering and repolishing of DJCoco's Mega Man Sunrise.
+
+Refer to Changelog for detailed list of changes from the base game. As summarized in the changelog, this is a modification of DJCoco's Mega Man Sunrise, a Mega Man fangame from around 2016. The game was created within a two month window and as such is severely lacking in polish in certain areas. As a fan of the game, I decided to give it a facelift by sanding out all the rough edges and making other changes as creative liberties. This revised version includes faster combat on account of removing weapon lag and enemy invincibility frames, improved level design with less unfair obstacles, improved AI for enemies and bosses, and small new content additions such as collectibles which contribute to a secret boss and a "good" ending for the game that provides more than the lackluster ending of the original. May also include color at some point. 
