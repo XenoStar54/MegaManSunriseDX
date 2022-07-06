@@ -20,7 +20,7 @@ Mod by XenoStar54, original game by DJCoco.
 *Enemy Changes*
 
 - Invincibility frames have been entirely removed from enemies.
-- Mets now have more of a delay to firing, allowing MM to shoot them preemptively as is possible in all official Mega Man games.
+- Met AI has been modified to allow the player to shoot them as soon as they open. They now also shoot three shots, as in all other Mega Man games.
 - Palm Hoppers now shoot slightly less frequently (60 frames -> 70 frames), but the shots themselves are slightly faster (2 -> 2.5 xspeed).
 - Batton HP increased from 1 to 2.
 - Pipi HP decreased from 2 to 1.
