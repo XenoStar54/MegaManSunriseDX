@@ -21,15 +21,19 @@ Mod by XenoStar54, original game by DJCoco.
 
 - Invincibility frames have been entirely removed from enemies.
 - Mets now have more of a delay to firing, allowing MM to shoot them preemptively as is possible in all official Mega Man games.
+- Palm Hoppers now shoot slightly less frequently (60 frames -> 70 frames), but the shots themselves are slightly faster (2 -> 2.5 xspeed).
+- Batton HP increased from 1 to 2.
+- Pipi HP decreased from 2 to 1.
 - Armaroid shots are now destructible, as they were in MMV.
+- New Shotman AI tweaked to mimic the original, where distance determines which shot the New Shotman will shoot. Before this modification, they always shot their horizontal bullets, even if they were also shooting their vertical bullets, unlike in MM3.
 - Popo Helis now behave as they did in MM9, firing a single burst of flame and then flying directly upwards off of the screen. HP reduced from 3 to 1 as well.
 - Sakrets' HP has been lowered from 5 to 3, as in MM9.
 - Lowered the speed of Screw Bomber projectiles to a more manageable speed.
 
 *Boss Changes*
 
-- All bosses' contact damage was slightly reduced.
-- Weakness order now broken into two chains that are self-contained between the two parts of the game: Vine > Circuit > Valve > Scorch and Kunai > Sound > Haze > Mirage. Secondary weaknesses shuffled slightly but mostly kept the same.
+- Boss invincibility frames decreased very slightly. Should resemble approximately the amount of invincibility frames experienced in other Mega Man games.
+- Weakness order is now broken into two chains that are self-contained between the two parts of the game: Vine > Circuit > Valve > Scorch and Kunai > Sound > Haze > Mirage. Secondary weaknesses shuffled slightly.
 - Boss contact damage universally lowered slightly.
 - Vine Man now moves marginally slower on the ground (1.25 -> 1).
 - Valve Man now moves marginally slower on the ground (1.25 -> 1).
