@@ -89,3 +89,5 @@ Mod by XenoStar54, original game by DJCoco.
 **Content Additions**
 
 - Sunrise Tokens added in secret areas in each of the eight robot master stages.
+- Alternate paths added to every robot master stage, each featuring new uses for existing gimmicks.
+- Better ending and secret boss fight added for collection of all eight Sunrise Tokens.
