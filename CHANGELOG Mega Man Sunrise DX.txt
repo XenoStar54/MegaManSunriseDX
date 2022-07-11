@@ -20,14 +20,16 @@ Mod by XenoStar54, original game by DJCoco.
 *Enemy Changes*
 
 - Invincibility frames have been entirely removed from enemies.
-- Met AI has been modified to allow the player to shoot them as soon as they open. They now also shoot three shots, as in all other Mega Man games.
+- Mets have been modified to allow the player to shoot them as soon as they open. They now also shoot three shots, as in all other Mega Man games.
 - Palm Hoppers now shoot slightly less frequently (60 frames -> 70 frames), but the shots themselves are slightly faster (2 -> 2.5 xspeed).
 - Batton HP increased from 1 to 2.
 - Pipi HP decreased from 2 to 1.
 - Armaroid shots are now destructible, as they were in MMV.
 - New Shotman AI tweaked to mimic the original, where distance determines which shot the New Shotman will shoot. Before this modification, they always shot their horizontal bullets, even if they were also shooting their vertical bullets, unlike in MM3.
+- Hammer Joes now stay vulnerable for slightly longer and throw hammers at a slightly slower (and more reactable) speed.
 - Popo Helis now behave as they did in MM9, firing a single burst of flame and then flying directly upwards off of the screen. HP reduced from 3 to 1 as well.
 - Sakrets' HP has been lowered from 5 to 3, as in MM9.
+- Spines can now be shot to stop their movement for a short time, just like in Mega Man 1.
 - Lowered the speed of Screw Bomber projectiles to a more manageable speed.
 
 *Boss Changes*
