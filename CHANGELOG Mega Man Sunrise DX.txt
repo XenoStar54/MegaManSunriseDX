@@ -35,6 +35,7 @@ Mod by XenoStar54, original game by DJCoco.
 - Sakrets' HP has been lowered from 5 to 3, as in MM9.
 - Spines can now be shot to stop their movement for a short time, just like in Mega Man 1.
 - Lowered the speed of Screw Bomber projectiles to a more manageable speed.
+- Okosutobons now explode after a set period of time, as in MM9.
 
 *Boss Changes*
 
@@ -42,7 +43,7 @@ Mod by XenoStar54, original game by DJCoco.
 - Weakness order is now broken into two chains that are self-contained between the two parts of the game: Vine > Circuit > Valve > Scorch and Kunai > Sound > Haze > Mirage. Secondary weaknesses shuffled slightly.
 - Boss contact damage universally lowered slightly.
 - Vine Man now moves marginally slower on the ground (1.25 -> 1).
-- Valve Man now moves marginally slower on the ground (1.25 -> 1).
+- Valve Man now moves marginally slower on the ground (1.25 -> 1). Valve Man's water balloon attack is also easier to dodge when it splits into three drops.
 
 *Weapon Changes*
 
@@ -79,6 +80,7 @@ Mod by XenoStar54, original game by DJCoco.
 *Valve Man Stage*
 - Added an extra hidden pickup in the room where an E-Tank previously was.
 - Several ceilings have been raised to reduce cheap spots in level design.
+- Sea mine explosions no longer pass through spikes.
 
 *Kunai Man Stage*
 
