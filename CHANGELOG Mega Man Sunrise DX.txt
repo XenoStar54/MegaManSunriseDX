@@ -1,6 +1,6 @@
 This mod seeks to improve certain unpolished elements of the original Mega Man Sunrise and generally smooth over the game without fundamentally changing anything about the identity of the game.
 This mostly comes in the form of level design tweaks and edits that make the game more approachable and fair.
-Adds a bit of extra content. Some side rooms have been added, some challenges for collectibles changed, and Sunrise Tokens have been added in secret areas to contribute towards a true ending.
+Adds a bit of extra content. Some side rooms have been added, some challenges for collectibles changed, etc.
 Mod by XenoStar54, original game by DJCoco.
 
 **Currently Known Issues**
@@ -16,6 +16,10 @@ Mod by XenoStar54, original game by DJCoco.
 *Stage Select / Other Menus*
 
 - Game saves progress between Wily stages. The player no longer has to complete them all in one go.
+
+**Content Additions**
+
+- Alternate paths added to every robot master stage, each featuring new uses for existing gimmicks.
 
 *Enemy Changes*
 
@@ -52,18 +56,29 @@ Mod by XenoStar54, original game by DJCoco.
 - Haze Shield ammo cost lowered marginally (3.5 -> 3).
 - Trance Wrecker slightly nerfed by increasing its energy cost (1 -> 1.5).
 
+*Miscellaneous Changes*
+
+- The item spawn logic has been altered to match that of Mega Man 2 (1-up: 1/128, Big weapon energy: 5/128, Big health energy: 4/128, Small weapon energy: 25/128, Small health energy: 15/128, Nothing: 78/128). This reduces the amount of items spawned in general, but the game design has been tweaked to be more fair to compensate.
+
 *Vine Man Stage*
 
+- 1-up added in a bonus room near the beginning of the stage.
 - First E-Tank room completely redesigned to be remotely interesting.
 
 *Scorch Man Stage*
 
 - Some rooms rearranged a bit. Pointless unbreakable barrier room redone to make more sense.
+- M-Tank has been added in a bonus room midway through the stage. The M-Tank in the stage previously is now an E-Tank.
 
 *Circuit Man Stage*
 
 - Ice added to one certain platform in the stage that lacked it for some strange reason.
 - Weapon energy removed from the sliding E-Tank pickup area, as this immediately softlocks you if you try to fill a weapon up.
+- Various Shield Attacker positions have been modified for fairness.
+
+*Valve Man Stage*
+- Added an extra hidden pickup in the room where an E-Tank previously was.
+- Several ceilings have been raised to reduce cheap spots in level design.
 
 *Kunai Man Stage*
 
@@ -86,10 +101,3 @@ Mod by XenoStar54, original game by DJCoco.
 *Wily Stage 4*
 
 - Made the first final boss cutscene skippable.
-- TBD MAKE SECOND ONE SKIPPABLE
-
-**Content Additions**
-
-- Sunrise Tokens added in secret areas in each of the eight robot master stages.
-- Alternate paths added to every robot master stage, each featuring new uses for existing gimmicks.
-- Better ending and secret boss fight added for collection of all eight Sunrise Tokens.
