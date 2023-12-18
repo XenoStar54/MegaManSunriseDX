@@ -1,6 +1,6 @@
 This mod seeks to improve certain unpolished elements of the original Mega Man Sunrise and generally smooth over the game without fundamentally changing anything about the identity of the game.
 This mostly comes in the form of level design tweaks and edits that make the game more approachable and fair.
-Adds a bit of extra content. Some side rooms have been added, some challenges for collectibles changed, etc.
+Adds a bit of extra content. Some side rooms have been added, some challenges for collectibles changed, etc. The game is now rendered in color instead of monochrome green, much like a Game Boy Color game.
 Mod by XenoStar54, original game by DJCoco.
 
 **Currently Known Issues**
