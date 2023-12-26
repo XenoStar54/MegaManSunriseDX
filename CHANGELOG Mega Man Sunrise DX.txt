@@ -7,6 +7,12 @@ Mod by XenoStar54, original game by DJCoco.
 
 - Game has a bad habit of softlocking if left alone too long, but this is a quality of the original that would be nearly impossible for me to fix unless I knew the exact source.
 
+**Content Additions**
+
+- Alternate paths added to every robot master stage, each featuring new uses for existing gimmicks.
+- The game is now rendered in color as opposed to monochrome.
+- Other specific changes and additions are detailed below.
+
 **Changes**
 
 *Title Screen*
@@ -17,9 +23,9 @@ Mod by XenoStar54, original game by DJCoco.
 
 - Game saves progress between Wily stages. The player no longer has to complete them all in one go.
 
-**Content Additions**
+*Cutscenes*
 
-- Alternate paths added to every robot master stage, each featuring new uses for existing gimmicks.
+- A typo in the intro cutscene was fixed (Dr. Wily replaced with Dr. Light in the line about scrapping Trance).
 
 *Enemy Changes*
 
